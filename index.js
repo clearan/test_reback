@@ -6,6 +6,6 @@ const obj = new Test();
 console.log(obj)
 
 function Person() {
-
+    console.log(1)
 }
 
